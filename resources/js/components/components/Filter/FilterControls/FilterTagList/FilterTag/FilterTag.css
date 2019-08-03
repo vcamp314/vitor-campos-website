@@ -1,0 +1,37 @@
+.filter-tag {
+
+    display: inline;
+    border: none;
+    border-radius: 100vh;
+    background-color: #A6A6A6;
+    opacity: 0.7;
+    padding: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    color: black;
+}
+
+.close-button {
+
+    padding-left: 8px;   
+}
+
+.close-button svg {
+
+    color: black;
+    opacity: 0.7;
+    cursor: pointer;     
+}
+
+.close-button svg:hover {
+
+    color: black;
+    opacity: 1;
+    cursor: pointer;     
+}
+
+.spacing {
+
+    display: inline;
+    padding-right: 4px;    
+}

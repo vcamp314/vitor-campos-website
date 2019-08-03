@@ -1,0 +1,46 @@
+
+.background {
+
+    min-height: 100vh;
+    background-color: #282c34;
+    background-image: url("../../Assets/images/cover-image.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+.header-container {
+    max-width: 818px;
+    padding: 0 1.5rem;
+}
+
+.nav-header {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.cover-heading {
+
+    font-size: calc(60px + 2vmin);
+}
+
+.lead-subheading {
+
+    text-align: left;
+    
+}
+
+.cover-contact-link {
+
+    color: #fff;
+    border-bottom: 1px dotted #fff;
+    font-weight: 500;
+}

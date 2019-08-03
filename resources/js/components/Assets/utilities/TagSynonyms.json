@@ -1,0 +1,12 @@
+{
+    "tags": [
+        {
+            "tagName": "JavaScript",
+            "synonyms": ["js", "java-script", "jsscript", "js-script", "ecmascript"]
+        },
+        {
+            "tagName": "React",
+            "synonyms": ["reactjs"]
+        }
+    ]
+}

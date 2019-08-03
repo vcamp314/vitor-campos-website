@@ -1,0 +1,19 @@
+.with-padding {
+
+    padding-top: 50px;
+    padding-bottom: 30px;
+
+}
+
+.card-icons {
+
+    display:inline-block;
+    float:none;
+    margin-right:-4px;
+    text-align: center;
+}
+
+.card-titles-spacing {
+
+    padding-bottom: 2px;
+}

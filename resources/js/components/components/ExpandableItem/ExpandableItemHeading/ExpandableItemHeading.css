@@ -1,0 +1,57 @@
+.expandable-bullet {
+
+	margin-right: 7px;
+	margin-top: -0.15em;
+	height: 0.7em;
+	width: 0.7em;
+}
+
+.rotated {
+
+	transform: rotate(90deg);
+}
+
+.expandable-bullet:focus,.expandable-bullet:active {
+
+	outline: none;
+}
+
+p.expandable-bullet-heading{
+
+	margin-bottom: 0%;
+	padding-left: 21px;
+}
+
+.rotate {
+
+	animation: rotate 0.3s ease-out forwards;
+}
+
+.unrotate {
+
+	animation: unrotate 0.3s ease-out forwards;
+}        
+
+@keyframes rotate {
+	0% {
+		transform: rotate(0deg);
+	}
+	50% {
+		transform: rotate(70deg);
+	}
+	100% {
+		transform: rotate(90deg);
+	}
+}
+
+@keyframes unrotate {
+	0% {
+		transform: rotate(0deg);
+	}
+	50% {
+		transform: rotate(-70deg);
+	}
+	100% {
+		transform: rotate(-90deg);
+	}
+}

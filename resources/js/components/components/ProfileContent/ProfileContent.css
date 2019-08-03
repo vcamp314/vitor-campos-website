@@ -1,0 +1,52 @@
+a {
+
+  color: #343a40;
+}
+
+a:hover {
+
+  color: #173798;
+  text-decoration: none;
+}
+
+div.media {
+
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+div.media img {
+
+  height: 12vmin;
+  width: 12vmin;
+  margin-right: 10px;
+  border-radius: 50px;
+}
+
+
+div.media h5 {
+
+  color: #85A68E;
+  font-weight: 700;
+}
+
+div.media .Duration {
+
+  color: #444;
+  display: block;
+}
+
+div.media .Location {
+
+  color: #666;
+}
+
+.non-expandable-list-portion {
+
+  margin-bottom: 0%;
+}
+.content-heading {
+
+  font-weight: 600;
+
+}

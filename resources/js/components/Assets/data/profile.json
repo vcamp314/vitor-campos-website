@@ -1,0 +1,333 @@
+{
+    "experience": [
+      {
+        "id": "exp01",
+        "companyName": "Connex Telecommunications Inc.",
+        "logo": "https://media.licdn.com/dms/image/C4E0BAQH-XWirJpdU_g/company-logo_400_400/0?e=1568246400&v=beta&t=3Tue2loZctspbkNNXKi5wPa52iKXtCY4SBDfKxZ-qDY",
+        "url": "https://www.connexservice.ca/",
+        "title":"Senior Programmer Analyst, Team Lead",
+        "location": "Toronto, Canada",
+        "duration": "Jan. 2015 to present",
+        "description": "Responsible for the end-to-end completion of Call-Center Web Applications that utilize JavaScript on the frontend and Java or C# on the backend.",
+        "tags": [],
+        "sections":[
+          {
+            "id":"sec01",
+            "heading": "Responsibilities:",
+            "tags": ["XML"],
+            "responsibilities": [
+
+              {
+                "id": "res001",
+                "description": "Built custom websites (PHP, JSP, C# - ASP.NET) to be used as management tools allowing for updating Call-Center configurations, as well as managing audio files (recording, uploading, scheduling)",
+                "tags": ["PHP", "JSP", "C#", "ASP.NET", "HTML", "JavaScript", "CSS"],
+                "isExpanded": false,
+                "details": [
+                  {
+                    "id":"det001",
+                    "description": "Websites were built using JavaScript, HTML, and CSS on the frontend and a PHP, JSP, or ASP.NET backend depending on the client",
+                    "tags": ["PHP", "JSP", "C#", "ASP.NET", "HTML", "JavaScript", "CSS"]
+                   
+                  },
+                  {
+                    "id":"det101",
+                    "description": "Typically, backend code would interface with either MSSQL or webservice API's",
+                    "tags": ["PHP", "JSP", "C#", "ASP.NET", "MSSQL"]
+                   
+                  }
+                ]
+              },
+              {
+                "id": "res002",
+                "description": "Responsible for developing core JavaScript functionality used by other team members throughout the frontend applications",
+                "tags": ["JavaScript"],
+                "isExpanded": false,
+                "details": [
+                  {
+                    "id":"det002",
+                    "description": "This was part of an initiative to modularize the complex portions of the JavaScript code and ensure its quality while providing easy to use handles for less experienced team members to use",
+                    "tags": ["JavaScript"]
+                  },
+                  {
+                    "id":"det003",
+                    "description": "This allowed for a more even distribution of work regardless of the experience of the team member, bringing down the time to completion",
+                    "tags": ["JavaScript"]
+                  }    
+                ]
+              },
+              {
+                "id": "res004",
+                "description": "Developed backend code in Java and C# to utilize the client's API's (SOAP, REST) as well as connect to SQL databases",
+                "tags": ["Webservices", "API", "SOAP", "REST", "MSSQL", "SQL", "Java", "C#", "JSP"],
+                "isExpanded": false,
+                "details": [
+                  {
+                    "id":"det022",
+                    "description": "Wrote webservice client code in Java to interact with the client’s secure middleware (MW) systems",
+                    "tags": ["Webservices", "Java", "SOAP", "REST", "JSP"]
+                  },
+                  {
+                    "id":"det023",
+                    "description": "Created webservices to simulate the client API’s while waiting for the client to prepare their MW, allowing testing to proceed ahead of schedule",
+                    "tags": ["Webservices", "API", "SOAP", "REST", "Java"]
+                  }   
+                ]
+              },
+              {
+                "id": "res006",
+                "description": "Implemented customer-facing chatbot AI technologies for commercial banks",
+                "tags": ["AI", "NLP"],
+                "isExpanded": false,
+                "details": [
+                  {
+                    "id": "det013",
+                    "description": "Developed Natural Language Understanding (NLU) models for chatbot AI and conversational IVR systems",
+                    "tags": ["AI", "NLP"]
+                  }
+                ]
+              }
+
+            ]
+          },
+          {
+            "id":"sec02",
+            "heading": "Process Improvement Initiatives:",
+            "tags": ["Initiative"],
+            "responsibilities":[
+              {
+                "id": "res007",
+                "description": "Developed a JavaScript (jQuery) CSS and HTML Google sheet plugin to manage the backend-frontend integration, reducing schedule impacts of backend changes by at least 67%",
+                "tags": ["Initiative", "jQuery", "JavaScript", "CSS", "HTML", "Google"],
+                "isExpanded": false,
+                "details": [
+                  {
+                    "id":"det032",
+                    "description": "This plugin sheet was created to serve as a data mapping document, a backend to frontend parameter map generator, as well as an automatic unit test case generator",
+                    "tags": ["Initiative", "jQuery", "JavaScript", "CSS", "HTML", "Google"]
+                  },
+                  {
+                    "id":"det033",
+                    "description": "This tool was developed as part of a series of process improvements for development and was quickly adopted as the main go-to tool/document by all team members due to its ease of use",
+                    "tags": ["Initiative", "jQuery", "JavaScript", "CSS", "HTML", "Google"]
+                  }    
+                ]
+              },
+              {
+                "id": "res008",
+                "description": "Created an automated team test log parsing tool which reduced testing time to one-third of the usual time (Java, Python)",
+                "tags": ["Initiative", "Java", "Python", "Multi-threading", "automated unit testing"],
+                "isExpanded": false,
+                "details": [
+                  {
+                    "id":"det042",
+                    "description": "This application was originally developed in Java to overcome log file access limitations and log file set-up issues that were slowing down the team's testing and debugging progress",
+                    "tags": ["Initiative", "Java", "Python", "Multi-threading", "automated unit testing", "Python Unittest"]
+                  },
+                  {
+                    "id":"det043",
+                    "description": "The tool was later rewritten in Python with several improvements allowing for automatic unit testing functionality and bug reporting tools",
+                    "tags": ["Initiative", "Java", "Python", "Multi-threading", "automated unit testing", "Python Unittest"]
+                  }    
+                ]
+              },
+              {
+                "id": "res061",
+                "description": "Implemented various improvements for enhancing code performance and modularity",
+                "tags": ["Initiative", "Java", "JavaScript"],
+                "isExpanded": false,
+                "details": [
+                  {
+                    "id":"det042",
+                    "description": "Refactored frontend code to be configuration driven, improving maintainability, eliminating unnecessary hard-coding, and allowing code to be responsive to design changes",
+                    "tags": ["Initiative", "JavaScript"]
+                  },
+                  {
+                    "id":"det043",
+                    "description": "Updated the Java webservice client code templates for improved modularity, simplifying its use and reducing development lead times",
+                    "tags": ["Initiative", "Java"]
+                  },
+                  {
+                    "id":"det044",
+                    "description": "Set up a makeshift testing environment and testing harness that can load the unit test cases generated by the google sheet plug-in tool to ensure team members can test their code to the same standard",
+                    "tags": ["Initiative", "Java"]
+                  },
+                  {
+                    "id":"det045",
+                    "description": "Created a templating system for the frontend code components, ensuring code consistency, allowing trainee team members to start producing code with minimal training and reducing bugs from human error",
+                    "tags": ["Initiative", "JavaScript"]
+                  }    
+                ]
+              },
+              {
+                "id": "res062",
+                "description": "Redesigned and implemented the code base for the data-driven menuing framework regarded as the main selling point for the Company's development department, adding new functionality and simplifying its use",
+                "tags": ["Initiative", "Java", "JavaScript"],
+                "isExpanded": false,
+                "details": [
+                  {
+                    "id":"det046",
+                    "description": "The improved framework was simplified such that even trainee team members can add its functionality to any project via simple configurations",
+                    "tags": ["Initiative", "Java", "JavaScript"]
+                  }   
+                ]
+              }              
+            ]
+          },
+          {
+            "id":"sec03",
+            "heading": "Team Lead Responsibilities:",
+            "tags": ["Leadership"],
+            "responsibilities":[
+              {
+                "id": "res009",
+                "description": "Led teams of up to 10 members of various skill levels to successfully push large projects through development, QA and UAT cycles to completion",
+                "tags": ["Leadership"],
+                "isExpanded": false,            
+                "details": [
+                  {
+                    "id":"det004",
+                    "description": "Responsible for project management tasks such as cost estimation, scheduling, planning, and team coordination",
+                    "tags": ["Project management", "Estimation", "Scheduling", "Planning"]
+                  },
+                  {
+                    "id":"det005",
+                    "description": "Coordinated between key players from clients/partners to ensure business requirements are clear and breaking them down into assignable tasks",
+                    "tags": ["Customer Facing", "Business Requirements"]
+                  }    
+                ]
+              },
+              {
+                "id": "res010",
+                "description": "Comfortably handled the constantly changing business requirements, balancing between client satisfaction and bringing in extra revenue from change requests",
+                "tags": ["Business Requirements"]                
+              },
+              {
+                "id": "res011",
+                "description": "Prepared complete training program including documents/videos and code templates to ensure new trainees can quickly get up to speed and be ready to produce quality code with 2 weeks",
+                "tags": ["Training"]            
+              } 
+            ]
+          }
+        ]
+      },
+      {
+        "id": "exp002",
+        "companyName": "Excapsa Services Inc.",
+        "logo": "http://gambling.li/images/excapsa-logo.jpg",
+        "url": "",
+        "title":"Software Intern",
+        "location": "Toronto, Canada",
+        "duration": "2006: June to Sept.",
+        "description": "Developed software plugins and automation tools to monitor the status of servers that ran an online gaming network, isolating for problems in network configurations and load performance.",
+        "tags": ["LINUX"],
+        "sections":[
+          {
+            "id":"sec04",
+            "tags": ["Initiative"],
+            "responsibilities": [
+              {
+                "id": "res021",            
+                "description": "Employed shell script automation tools to identify issues that otherwise would have led to the crash of several high stake servers",
+                "tags": ["shell scripting"]
+              },
+              {
+                "id": "res022",
+                "description": "Programmed a cgi protocol plugin in C with no support or supervision which allowed for instant toggling of monitoring services, saving hours of work for each server maintenance",
+                "tags": ["C", "cgi protocol", "Initiative"]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects":[
+
+      {
+        "id": "prj001",
+        "projectName": "This Webpage",
+        "logo": "site-logo",
+        "url": "",
+        "location": "Toronto, Canada",
+        "description": "Designed and Developed this website, demonstrating the use of React and many of its more popular libraries, with Bootstrap integration (with Reactstrap) and Redux. Please check the source code on GitHub by clicking on the \"this Webpage\" link above.",
+        "tags": ["React", "Redux", "Reactstrap", "Bootstrap", "React-Router", "Single Page Application", "JavaScript", "HTML", "CSS", "Laravel", "PHP", "Jest/Enzyme", "Git"],
+        "sections":[
+          {
+            "id":"sec05",
+            "tags": ["Initiative"],
+            "responsibilities": [
+              {
+                "id": "res031",            
+                "description": "Developed Single Page Application using React-Router",
+                "tags": ["Initiative", "React", "React Router", "JavaScript", "Reactstrap", "Bootstrap", "Git"]
+              },
+              {
+                "id": "res032",
+                "description": "Built expandable item component created using Styled-Component and React-Transition-Group for animations",
+                "tags": ["Initiative", "React", "React-Transition-Group", "Styled-Component", "JavaScript", "Git"]
+              },
+              {
+                "id": "res033",
+                "description": "Created a contact form using Bootstrap (Reactstrap) and implemented a PHP mail API using Laravel",
+                "tags": ["Initiative", "React", "Reactstrap", "Bootstrap", "Laravel", "PHP", "JavaScript", "Git", "MVC"]
+              },
+              {
+                "id": "res034",
+                "description": "Set up unit test coverage using  Jest and Enzyme",
+                "tags": ["Initiative", "JavaScript", "React", "Jest/Enzyme", "automated unit testing", "Git"]
+              }               
+            ]
+          }
+        ]
+      },
+      {
+        "id": "prj002",
+        "projectName": "Productivity Tool Application",
+        "logo": "",
+        "url": "",
+        "location": "Toronto, Canada",
+        "description": "Constructed a platform for planning, budgeting, and scheduling automation, utilized by a website created with Python/Django and by the Android system (Java).",
+        "tags": ["Python", "Django", "SQL", "MySQL", "SQLite", "Java", "Android", "OOP", "TDD", "JUnit", "MVC"],
+        "sections":[
+          {
+            "id":"sec06",
+            "tags": ["Initiative"],
+            "responsibilities": [
+              {
+                "id": "res051",            
+                "description": "Developed web-form user interfaces to explore the Django framework",
+                "tags": ["Python", "Django"]
+              },
+              {
+                "id": "res052",
+                "description": "Coded a Python ORM to manage databases, supporting both MySQL and SQLite to gain experience with complex SQL processes",
+                "tags": ["Python", "SQL", "MySQL", "SQLite", "Python Unittest"]
+              },
+              {
+                "id": "res053",            
+                "description": "Devised class libraries in Java and implemented a corresponding Android app to explore smartphone app design",
+                "tags": ["Java", "Android", "OOP"]
+              },
+              {
+                "id": "res054",
+                "description": "Used TDD for Java classes to get familiarized with unit testing with JUnit",
+                "tags": ["TDD", "Java", "JUnit", "automated unit testing"]
+              }              
+            ]
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "id": "edu01",
+        "institute": "University of Waterloo",
+        "logo": "https://media.licdn.com/dms/image/C560BAQFI41Ly6leq7Q/company-logo_400_400/0?e=1568246400&v=beta&t=11dWgJr5gr7FOfrRbSGzVI9yG00SUmjTJOUlxRj_u-0",
+        "url": "https://uwaterloo.ca/",
+        "title": "Bachelor of Applied Science, Honours Mechanical Engineering",
+        "location": "Waterloo, Canada",
+        "skillsGained":"C++, PLC programming, Matlab",
+        "graduationYear": 2012,
+        "tags":["C++", "PLC programming","Matlab"]
+      }
+    ]
+  }

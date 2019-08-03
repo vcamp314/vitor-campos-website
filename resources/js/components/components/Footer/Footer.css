@@ -1,0 +1,28 @@
+.footer-block {
+
+    padding: 80px 1rem;
+    color: #fff;
+}
+
+.footer-text {
+    
+    padding-bottom: 20px;
+}
+
+.footer-col {
+
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
+
+footer a {
+    color: #A6A6A6;
+}
+
+.developed-by {
+
+    background: #262626;
+    color: #fff;
+
+
+}
