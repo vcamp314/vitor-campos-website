@@ -14,7 +14,7 @@ const listItemLayout = (props) => (
             </Media>
             <Media body>
                 <Media heading>
-                    <a href={props.url}>{props.heading}</a>
+                    {props.url !== ""? <a href={props.url}>{props.heading}</a> : props.heading}
                 </Media>
 
                 {props.children}
