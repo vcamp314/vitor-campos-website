@@ -70,6 +70,11 @@
                     "id":"det023",
                     "description": "Created webservices to simulate the client API’s while waiting for the client to prepare their MW, allowing testing to proceed ahead of schedule",
                     "tags": ["Webservices", "API", "SOAP", "REST", "Java"]
+                  },
+                  {
+                    "id":"det123",
+                    "description": "Set up SQL database tables (primarily MSSQL) and backend code in Java and C#",
+                    "tags": ["SQL", "MSSQL", "Java", "C#"]
                   }   
                 ]
               },
@@ -246,7 +251,7 @@
         "id": "prj001",
         "projectName": "This Webpage",
         "logo": "site-logo",
-        "url": "",
+        "url": "https://vitorcampos.info/",
         "location": "Toronto, Canada",
         "description": "Designed and Developed this website, demonstrating the use of React and many of its more popular libraries, with Bootstrap integration (with Reactstrap) and Redux. Please check the source code on GitHub by clicking on the \"this Webpage\" link above.",
         "tags": ["React", "Redux", "Reactstrap", "Bootstrap", "React-Router", "Single Page Application", "JavaScript", "HTML", "CSS", "Laravel", "PHP", "Jest/Enzyme", "Git"],
