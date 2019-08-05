@@ -6,7 +6,7 @@ You will see in this project examples of class based and functional react compon
 
 Also various popular frameworks were used, such as React Router, Redux, Reactstrap, Styled-Component and React-Transition-Group.
 
-React Unit tests were implemented using Jest and Enzyme.
+React unit tests were implemented using Jest and Enzyme.
 
 To go directly to the React source code of this project, [click here](https://github.com/vcamp314/vitor-campos-website/tree/master/resources/js/components).
 Recommended code to check would be the Profile.js and the components it contains.
