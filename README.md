@@ -14,6 +14,7 @@ Recommended code to check would be the Profile.js and the components it contains
 
 Future planned updates include:
 
+* Adding a language toggling functionality with text translated to Japanese
 * Rendering optimizations for the components in the Profile page
 * Adding Lazy loading to the Profile and Contact pages
 * Updating UX design of profile page to be more mobile friendly
